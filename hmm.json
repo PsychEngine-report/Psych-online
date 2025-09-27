@@ -10,7 +10,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/lime.git"
+      "url": "https://github.com/kittycathy233/lime.git"
     },
     {
       "name": "openfl",
@@ -22,7 +22,7 @@
       "type": "git",
       "dir": null,
       "ref": "5.6.2",
-      "url": "https://github.com/MobilePorting/flixel.git"
+      "url": "https://github.com/Ethantobot11/psych-online-flixel"
     },
     {
       "name": "flixel-addons",
@@ -44,7 +44,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/mcagabe19-stuff/hxcpp.git"
+      "url": "https://github.com/kittycathy233/hxcpp.git"
     },
     {
       "name": "tjson",
@@ -57,18 +57,16 @@
       "version": "1.1.0"
     },
     {
-      "name": "hxCodec",
-      "type": "git",
-      "dir": null,
-      "ref": "cafc58e9046505ff93fa659339808b53faa5d6f3",
-      "url": "https://github.com/polybiusproxy/hxCodec"
+      "name": "hxvl ",
+      "type": "haxelib",
+      "version": "2.0.1"
     },
     {
       "name": "SScript",
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/SScript-7.7.0"
+      "url": "https://github.com/HomuHomu833/SScript"
     },
     {
       "name": "discord_rpc",
@@ -82,7 +80,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/MobilePorting/linc_luajit-0.7plus"
+      "url": "https://github.com/kittycathy233/linc_luajit"
     },
     {
       "name": "colyseus",
